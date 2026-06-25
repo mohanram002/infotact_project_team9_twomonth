@@ -1,0 +1,15 @@
+# Virtual Environment
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Trained models
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
