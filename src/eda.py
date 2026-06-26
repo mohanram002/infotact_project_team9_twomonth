@@ -23,3 +23,5 @@ data["Type"] = le.fit_transform(data["Type"])
 plt.figure(figsize=(12,8))
 sns.heatmap(data.corr(), annot=True, cmap="coolwarm")
 plt.show()
+
+print('hello')
