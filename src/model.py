@@ -15,7 +15,9 @@ from sklearn.metrics import accuracy_score,classification_report
 # Load cleaned data
 data = pd.read_csv("dataset/cleaned_ai4i2020.csv")
 
-X = data.drop("Machine failure", axis=1)
+
+
+X = data.drop(["Machine failure"], axis=1)
 y = data["Machine failure"]
 
 # Train Test Split

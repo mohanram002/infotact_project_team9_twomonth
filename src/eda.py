@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import LabelEncoder
 
 # Load Dataset
-data = pd.read_csv("dataset/ai4i2020.csv")
+data = pd.read_csv("dataset/cleaned_ai4i2020.csv")
 
 print("="*50)
 print("Dataset Shape")
