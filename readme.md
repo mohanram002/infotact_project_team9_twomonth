@@ -112,20 +112,6 @@ Reason for choosing Logistic regression:
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots here after uploading them to GitHub.
-
-Example:
-
-```text
-screenshots/
-│
-├── home_page.png
-├── eda_heatmap.png
-├── prediction_result.png
-```
-
 Then include them like:
 
 ```markdown
@@ -140,8 +126,8 @@ Then include them like:
 
 ## 👨‍💻 Team Members
 
-* Mohan Ram
-* Team Member 2
+* Mohan Ram G
+* Hariharan M
 
 ---
 
